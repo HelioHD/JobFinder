@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+data/*.json
+!data/.gitkeep
+!data/curated_certifications.json
+!data/curated_postgrad.json
